@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 50000,
+    "viewportHeight":760,
+    "viewportWidth":1300
+}
